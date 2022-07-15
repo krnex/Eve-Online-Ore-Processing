@@ -1,0 +1,38 @@
+{
+    "file_location":"Eve - Sheet1.csv",
+    "tax_rate":0.3,
+    "pilot_names":{
+        "Billy":["Billy Credit"],
+        "Antarian":["Antarian Duket", "Antarian Jura Antarian", "Antarian Mosfet Antarian"]
+    },
+
+
+
+
+
+    
+
+
+    "ore":{
+        "section_1":{
+            "type":["Bitumens", "Coesite", "Sylvite", "Zeolites"],
+            "modifier":["", "Brimful", "Glistening"]
+        },
+        "section_2":{
+            "type":["Cobalitite", "Euxenite", "Scheelite", "Titanite"],
+            "modifier":["", "Copious", "Twinkling"]
+        },
+        "section_3":{
+            "type":["Chromite", "Otavite", "Sperrylite", "Vanadinite"],
+            "modifier":["", "Lavish", "Shimmering"]
+        },
+        "section_4":{
+            "type":["Carnotite", "Cinnabar", "Pollucite", "Zircon"],
+            "modifier":["", "Glowing", "Replete"]
+        },
+        "section_5":{
+            "type":["Loparite", "Monazite", "Xenotime", "Ytterbite"],
+            "modifier":["", "Bountiful", "Shining"]
+        }
+    }
+}
